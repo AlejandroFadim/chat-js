@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+}
+
+.h1Dash{
+  color: #0059ff
+}
+
+.container{
+  display: flex;
+}
+
+.box {
+  width: 50%; 
+  display: flex;
+}
